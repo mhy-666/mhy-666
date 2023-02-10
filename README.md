@@ -4,7 +4,7 @@
 - 📫 How to reach me: 2367290636@qq.com
 
 ### My personal introduction(unofficial, just for fun) is here 👋
-- :roller_coaster: mhy-666.github.io
+- :roller_coaster: [Let's Go](mhy-666.github.io)
 
 <!--
 **mhy-666/mhy-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
