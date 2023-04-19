@@ -9,5 +9,5 @@
 
 Here are some ideas to get you started:
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy-666&show_icons=true&theme=cobalt&count_private=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhy-666)](https://github.com/anuraghazra/github-readme-stats)
