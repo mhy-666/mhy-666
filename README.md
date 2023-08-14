@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Badidu Paddle
+- 🔭 I’m currently studying for a master's degree in Artificial Intelligence at Duke University.
 - 🌱 I’m currently learning Stable Diffusion, a machine learning model which takes as input a natural language description and produces an image matching that description.
-- 📫 How to reach me: 2367290636@qq.com
-- now I am preparing my undergradute paper...
+- ✨ I used to intern at Badidu Paddle.
+- 📫 How to reach me: s2367290636@gmail.com
 
 
 <!--
