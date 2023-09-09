@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying for a master's degree in Artificial Intelligence at Duke University.
 - 🌱 I’m currently learning Stable Diffusion, a machine learning model which takes as input a natural language description and produces an image matching that description.
 - ✨ I used to intern at Badidu Paddle.
-- 📫 How to reach me: s2367290636@gmail.com
+- 📫 How to reach me: hm235@duke.edu
 
 
 <!--
